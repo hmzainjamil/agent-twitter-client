@@ -1,5 +1,9 @@
 # agent-twitter-client
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **Twitter/X automation client that doesn't need API keys — auth via cookies, drive an agent** — A drop-in Twitter client built for autonomous agents. No paid API. Cookie auth. Search, post, DM, follow, scrape — all the things the official $42K/mo Enterprise tier blocks.
 
 <p align="center">
